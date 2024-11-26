@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/biplab-mahato-68b34a247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/biplab-mahato-68b34a247/" height="30" width="40" /></a>
 <a href="https://instagram.com/biplab_055" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="biplab_055" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/biplab_mahato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/biplab_mahato/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/biplab_mahato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="" height="30" width="40" /></a>
 
 </p>
 
